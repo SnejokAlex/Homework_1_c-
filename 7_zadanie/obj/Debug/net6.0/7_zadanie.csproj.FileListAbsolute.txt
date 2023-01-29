@@ -1,0 +1,15 @@
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/bin/Debug/net6.0/7_zadanie
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/bin/Debug/net6.0/7_zadanie.deps.json
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/bin/Debug/net6.0/7_zadanie.runtimeconfig.json
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/bin/Debug/net6.0/7_zadanie.dll
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/bin/Debug/net6.0/7_zadanie.pdb
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.csproj.AssemblyReference.cache
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.AssemblyInfoInputs.cache
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.AssemblyInfo.cs
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.csproj.CoreCompileInputs.cache
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.dll
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/refint/7_zadanie.dll
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.pdb
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/7_zadanie.genruntimeconfig.cache
+/Users/snejok/Desktop/Знакомство с языками программирования C#/Homework/7_zadanie/obj/Debug/net6.0/ref/7_zadanie.dll
