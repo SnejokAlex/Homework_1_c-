@@ -6,3 +6,8 @@ string strNumber = numbera.ToString();
         char b = strNumber[strNumber.Length - 2];
 if (a>b) Console.WriteLine(a);
 else Console.WriteLine(b);
+// после 2-го семинара понял другое решение
+int y = numbera/10;
+int x = numbera%10;
+if (y>x) Console.WriteLine(y);
+else Console.WriteLine(x);
